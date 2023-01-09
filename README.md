@@ -2,7 +2,7 @@
 
 H2 database is used at runtime scope
 
-Tested the application manuall with POSTMAN API
+Tested the application manually with POSTMAN API
 
 Here is the collection of API's
 
